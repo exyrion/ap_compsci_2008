@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Plays\ a\ game\ of\ Nim.\r\n\ A\ pile\ of\ marbles\ is\ made\ and\ the\ amount\ of\ marbles\ in\ the\ pile\ is\ a\ random\ number\ between\ 10-100.\r\n\ The\ human\ player\ plays\ against\ the\ computer.\r\n\ The\ program\ randomly\ selects\ whether\ the\ computer\ or\ player\ goes\ first.\r\n\ The\ computer\ is\ randomly\ selected\ to\ play\ in\ smart\ mode\ or\ stupid\ mode.\ \r\n\ The\ human\ player\ and\ computer\ take\ turns\ taking\ away\ marbles\ from\ the\ pile.\r\n\ No\ one\ can\ take\ more\ than\ half\ the\ amount\ of\ marbles\ in\ the\ current\ pile.\r\n\ The\ person\ who\ takes\ the\ last\ marble\ loses.\r\n
+numComments=1

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=startingPlace
+comment0.target=DiscoBug(int)
+comment0.text=\nConstructs\ a\ disco\ bug,\ with\ a\ parameter\ specifying\ which\ corner\ it\ will\ \nbe\ moved\ to.\n\n
+comment1.target=void\ display()
+comment1.text=\nCalling\ this\ method\ will\ move\ the\ bug\ to\ its\ new\ location,\ndepending\ on\ what\ int\ it\ was\ constructed\ with.\n\n
+comment2.target=void\ act()
+comment2.text=\nWill\ turn\ and\ change\ colors\ depending\ on\ how\ many\ times\ it\ has\ already\ turned\nto\ make\ sure\ it\ goes\ at\ least\ 720.\ As\ soon\ as\ the\ bug\ hits\ something,\ it\ will\nturn\ back\ to\ its\ corner,\ dancing\ by\ itself\ forever.\n\n
+numComments=3

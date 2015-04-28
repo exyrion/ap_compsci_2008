@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=cornerStatus
+comment0.target=DiscoBug(int)
+comment0.text=\nConstructs\ a\ disco\ bug\ that\ is\ placed\ depending\ on\ cornerStatus\n@param\ length\ the\ side\ length\n\n
+comment1.target=void\ display()
+comment2.target=void\ act()
+comment2.text=\nMoves\ to\ the\ next\ location\ of\ the\ square.\nIf\ it\ bumps\ into\ a\ bug,\ it\ will\ turn\ 12\ times\ while\ changing\ colors,\nthen\ move\ back\ to\ its\ corner\ and\ dance\ all\ night\ long.\nIf\ it\ doesn't\ hit\ any\ bug,\ it\ will\ go\ back\ and\ forth.\n\n
+numComments=3

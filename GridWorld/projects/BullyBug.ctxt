@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=boolean\ canMove()
+comment0.text=\nOverrides\ and\ modifies\ the\ canMove\ method\ in\ the\ Bug\ class.\nSame\ method\ as\ canMove\ method\ in\ Bug\ class\ except\ that\ when\ the\ BullyBug\nhas\ a\ Rock\ in\ front\ of\ it,\ it\ gets\ removed.\n\n
+comment1.target=void\ act()
+comment1.text=\nMoves\ to\ the\ next\ location\ that\ the\ BullyBug\ is\ facing.\nIf\ there\ are\ any\ regular\ Bugs\ around\ it,\ they\ will\ be\ scared\ of\ the\ BullyBug\nand\ turn\ the\ opposite\ direction\ and\ keep\ on\ moving.\n\n
+comment2.params=args
+comment2.target=void\ main(String[])
+comment2.text=\nMain\ method.\n\n
+numComments=3

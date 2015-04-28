@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=bite
+comment0.target=Food(int)
+comment0.text=\nConstructs\ a\ <code>Food</code>\ actor.\ \ The\ image\ is\ndisplayed\ for\ this\ actor\ without\ tinting.\n\n
+comment1.params=ant
+comment1.target=void\ process(WorkerAnt)
+comment1.text=\nGives\ food\ and\ current\ location\ to\ <code>ant</code>.\n@param\ ant\ the\ calling\ <code>WorkerAnt</code>\n\n
+comment2.target=void\ act()
+comment3.target=String\ toString()
+numComments=4
